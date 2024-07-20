@@ -1,7 +1,0 @@
-6
-milan
-hello
-programming
-apple
-zebra
-banana
